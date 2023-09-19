@@ -1,0 +1,6 @@
+public class Questão01 {
+    
+    public static void main() {
+        System.out.println("Eu já, sei programar!!!");
+    }
+}
